@@ -1,0 +1,15 @@
+/* .banner{
+    
+    text-align: center;
+}
+.banners{
+    width: 90%;
+    height:40vh;
+    margin-bottom: 50px;
+} */
+ 
+.banners{
+   width:82%;
+   margin:30px auto;
+   display:flex;
+}

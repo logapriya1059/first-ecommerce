@@ -1,0 +1,104 @@
+
+{
+   
+    "collection": [
+  {
+    "id": 1,
+    "name": "Floral Embroidered Anarkali Dress",
+    "image": "/Assets/kid3.avif",
+    "category": "kids",
+    "new_price": 45.0,
+    "old_price": 65.0
+  },
+  {
+    "id": 2,
+    "name": "Pastel Green Churidar Suit",
+    "image": "/Assets/man1.avif",
+    "category": "men",
+    "new_price": 55.0,
+    "old_price": 75.0
+  },
+  {
+    "id": 3,
+    "name": "Silk Blend Straight Cut Kurta",
+    "image": "/Assets/chudi2.avif",
+    "category": "women",
+    "new_price": 68.0,
+    "old_price": 85.0
+  },
+  {
+    "id": 4,
+    "name": "Printed A-Line Frock with Ruffle Sleeves",
+    "image": "/Assets/kid2.avif",
+    "category": "kids",
+    "new_price": 50.0,
+    "old_price": 70.0
+  },
+  {
+    "id": 5,
+    "name": "Classic Mandarin Collar Kurta Set",
+    "image": "/Assets/man2.avif",
+    "category": "men",
+    "new_price": 60.0,
+    "old_price": 90.0
+  },
+  {
+    "id": 6,
+    "name": "Georgette Layered Kurti with Lace Work",
+    "image": "/Assets/modern.avif",
+    "category": "women",
+    "new_price": 75.0,
+    "old_price": 95.0
+  },
+  {
+    "id": 7,
+    "name": "Contemporary Floral Print Fusion Wear",
+    "image": "/Assets/modern.avif",
+    "category": "women",
+    "new_price": 72.0,
+    "old_price": 92.0
+  },
+  {
+    "id": 8,
+    "name": "Textured Nehru Jacket with Kurta Pajama",
+    "image": "/Assets/man3.avif",
+    "category": "men",
+    "new_price": 65.0,
+    "old_price": 88.0
+  },
+  {
+    "id": 9,
+    "name": "Ethnic Wear Gown with Floral Embellishment",
+    "image": "/Assets/kid3.avif",
+    "category": "kids",
+    "new_price": 55.0,
+    "old_price": 78.0
+  },
+  {
+    "id": 10,
+    "name": "Ethnic Wear Gown with Floral Embellishment",
+    "image": "/Assets/kid4.avif",
+    "category": "kids",
+    "new_price": 55.0,
+    "old_price": 78.0
+  },
+  {
+    "id": 11,
+    "name": "Ethnic Wear Gown with Floral Embellishment",
+    "image": "/Assets/man4.avif",
+    "category": "men",
+    "new_price": 55.0,
+    "old_price": 78.0
+  },
+  {
+    "id": 12,
+    "name": "Ethnic Wear Gown with Floral Embellishment",
+    "image": "/Assets/full anarkali.avif",
+    "category": "women",
+    "new_price": 55.0,
+    "old_price": 78.0
+  }
+]
+
+  }
+  

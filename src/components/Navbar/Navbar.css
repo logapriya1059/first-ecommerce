@@ -1,0 +1,38 @@
+body{
+    padding-top:100px;
+}
+.under-score{
+    border:none;
+    width:90%;
+    border-radius: 10px;
+    height:3px;
+    background-color: black;
+}
+/* .btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border:1px solid black;
+    border-radius:20px;
+    width:50%;
+    text-align: center;
+    padding: 0 20px 0 20px;
+} */
+.btn:hover{
+    background-color:lightgray;
+}
+ .nav-cart-count{
+   
+    width:20px;
+    height:20px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:-35px;
+    margin-left:17px;
+    border-radius: 11px;
+    font-size:14px;
+    background: green;
+    color:white;
+    
+} 

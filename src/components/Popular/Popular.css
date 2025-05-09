@@ -1,0 +1,25 @@
+
+.popular{
+    width:100%;
+    min-height:100vh;
+    
+
+}
+/* .item{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap:10px; 
+} */
+ /* Popular.css */
+
+.hr {
+    width: 200px;
+    height: 6px;
+    background-color: #252525;
+    margin: 10px auto 60px auto;
+    border: none;
+    border-radius: 2px;
+  }
+  
+

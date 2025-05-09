@@ -1,0 +1,11 @@
+
+ .card{
+background-color: #f8f9fa,
+}
+ .card:hover {
+    background-color: #e2e6ea;
+    transform: scale(1.02);
+     transition: all 0.3 linear; 
+    
+  }
+  

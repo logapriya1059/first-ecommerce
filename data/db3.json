@@ -1,0 +1,291 @@
+{"allproduct":[ 
+  {
+    "id": "1",
+    "name": "Floral Embroidered Anarkali Dress",
+    "image": "/Assets/kid3.avif",
+    "category": "kids",
+    "new_price": 45,
+    "old_price": 65
+  },
+  {
+    "id": "2",
+    "name": "Pastel Green Churidar Suit",
+    "image": "/Assets/man1.avif",
+    "category": "men",
+    "new_price": 55,
+    "old_price": 75
+  },
+  {
+    "id": "3",
+    "name": "Silk Blend Straight Cut Kurta",
+    "image": "/Assets/chudi2.avif",
+    "category": "women",
+    "new_price": 68,
+    "old_price": 85
+  },
+  {
+    "id": "4",
+    "name": "Printed A-Line Frock with Ruffle Sleeves",
+    "image": "/Assets/kid2.avif",
+    "category": "kids",
+    "new_price": 50,
+    "old_price": 70
+  },
+  {
+    "id": "5",
+    "name": "Classic Mandarin Collar Kurta Set",
+    "image": "/Assets/man2.avif",
+    "category": "men",
+    "new_price": 60,
+    "old_price": 90
+  },
+  {
+    "id": "6",
+    "name": "Georgette Layered Kurti with Lace Work",
+    "image": "/Assets/modern.avif",
+    "category": "women",
+    "new_price": 75,
+    "old_price": 95
+  },
+  {
+    "id": "7",
+    "name": "Contemporary Floral Print Fusion Wear",
+    "image": "/Assets/overcoat.avif",
+    "category": "women",
+    "new_price": 72,
+    "old_price": 92
+  },
+  {
+    "id": "8",
+    "name": "Textured Nehru Jacket with Kurta Pajama",
+    "image": "/Assets/man3.avif",
+    "category": "men",
+    "new_price": 65,
+    "old_price": 88
+  },
+  {
+    "id": "9",
+    "name": "Ethnic Wear Gown with Floral Embellishment",
+    "image": "/Assets/kids1.jpg",
+    "category": "kids",
+    "new_price": 65,
+    "old_price": 78
+  },
+  {
+    "id": "10",
+    "name": "Ethnic Wear Gown with Floral Embellishment",
+    "image": "/Assets/kid4.avif",
+    "category": "kids",
+    "new_price": 70,
+    "old_price": 78
+  },
+  {
+    "id": "11",
+    "name": "Ethnic Wear Gown with Floral Embellishment",
+    "image": "/Assets/man4.avif",
+    "category": "men",
+    "new_price": 72,
+    "old_price": 78
+  },
+  {
+    "id": "12",
+    "name": "Ethnic Wear Gown with Floral Embellishment",
+    "image": "/Assets/full anarkali.avif",
+    "category": "women",
+    "new_price": 68,
+    "old_price": 78
+  },
+  {
+    "id": "13",
+    "name": "Floral Charm Kids Gown",
+    "image": "/Assets/kid5.avif",
+    "category": "kids",
+    "new_price": 60,
+    "old_price": 78
+  },
+  {
+    "id": "14",
+    "name": "Sunshine Elegance Anarkali",
+    "image": "/Assets/yellow.avif",
+    "category": "women",
+    "new_price": 63,
+    "old_price": 78
+  },
+  {
+    "id": "15",
+    "name": "Classic Festive Kurta Set",
+    "image": "/Assets/man5.avif",
+    "category": "men",
+    "new_price": 66,
+    "old_price": 78
+  },
+  {
+    "id": "16",
+    "name": "Royal Blue Kids Kurta Ensemble",
+    "image": "/Assets/kid6.avif",
+    "category": "kids",
+    "new_price": 62,
+    "old_price": 78
+  },
+  {
+    "id": "17",
+    "name": "Elegant Maroon Men's Kurta Set",
+    "image": "/Assets/man6.avif",
+    "category": "men",
+    "new_price": 70,
+    "old_price": 78
+  },
+  {
+    "id": "18",
+    "name": "Contemporary Chic Western Dress",
+    "image": "/Assets/western2.avif",
+    "category": "women",
+    "new_price": 75,
+    "old_price": 78
+  },
+  {
+    "id": "19",
+    "name": "Midnight Glam Western Dress",
+    "image": "/Assets/western.avif",
+    "category": "women",
+    "new_price": 80,
+    "old_price": 78
+  },
+  {
+    "id": "20",
+    "name": "Urban Edge Men's Suit Set",
+    "image": "/Assets/man7.avif",
+    "category": "men",
+    "new_price": 85,
+    "old_price": 78
+  },
+  {
+    "id": "21",
+    "name": "Trendy Tux Set for Kids",
+    "image": "/Assets/kid7.avif",
+    "category": "kids",
+    "new_price": 55,
+    "old_price": 78
+  },
+  {
+    "id": "22",
+    "name": "Little Star Formal Suit",
+    "image": "/Assets/kid4.avif",
+    "category": "kids",
+    "new_price": 58,
+    "old_price": 78
+  },
+  {
+    "id": "23",
+    "name": "Mini Gentleman Tuxedo",
+    "image": "/Assets/kid9.avif",
+    "category": "kids",
+    "new_price": 60,
+    "old_price": 78
+  },
+  {
+    "id": "24",
+    "name": "Elegant Junior Suit Set",
+    "image": "/Assets/kids1.jpg",
+    "category": "kids",
+    "new_price": 64,
+    "old_price": 78
+  },
+  {
+    "id": "25",
+    "name": "Junior Royale Tux Set",
+    "image": "/Assets/kid11.avif",
+    "category": "kids",
+    "new_price": 67,
+    "old_price": 78
+  },
+  {
+    "id": "26",
+    "name": "Dapper Young Gentleman Suit",
+    "image": "/Assets/kid2.avif",
+    "category": "kids",
+    "new_price": 69,
+    "old_price": 78
+  },
+  {
+    "id": "27",
+    "name": "City Sleek Men's Suit",
+    "image": "/Assets/man8.avif",
+    "category": "men",
+    "new_price": 75,
+    "old_price": 78
+  },
+  {
+    "id": "28",
+    "name": "Modern Executive Suit Set",
+    "image": "/Assets/man2.avif",
+    "category": "men",
+    "new_price": 80,
+    "old_price": 78
+  },
+  {
+    "id": "29",
+    "name": "Classic Heritage Men's Suit",
+    "image": "/Assets/man10.avif",
+    "category": "men",
+    "new_price": 83,
+    "old_price": 78
+  },
+  {
+    "id": "30",
+    "name": "Sophisticated Business Suit",
+    "image": "/Assets/man11.avif",
+    "category": "men",
+    "new_price": 87,
+    "old_price": 78
+  },
+  {
+    "id": "31",
+    "name": "Timeless Elegance Suit Set",
+    "image": "/Assets/man12.avif",
+    "category": "men",
+    "new_price": 90,
+    "old_price": 78
+  },
+  {
+    "id": "32",
+    "name": "Georgette Layered Kurti with Lace Work",
+    "image": "/Assets/summer2.avif",
+    "category": "women",
+    "new_price": 85,
+    "old_price": 95
+  },
+  {
+    "id": "33",
+    "name": "Georgette Layered Kurti with Lace Work",
+    "image": "/Assets/summer fit.avif",
+    "category": "women",
+    "new_price": 88,
+    "old_price": 95
+  },
+  {
+    "id": "34",
+    "name": "Georgette Layered Kurti with Lace Work",
+    "image": "/Assets/partywear.avif",
+    "category": "women",
+    "new_price": 87,
+    "old_price": 95
+  },
+  {
+    "id": "35",
+    "name": "Georgette Layered Kurti with Lace Work",
+    "image": "/Assets/overcoat.avif",
+    "category": "women",
+    "new_price": 90,
+    "old_price": 95
+  },
+  {
+    "id": "36",
+    "name": "Georgette Layered Kurti with Lace Work",
+    "image": "/Assets/lehanga.avif",
+    "category": "women",
+    "new_price": 92,
+    "old_price": 95
+  }
+]
+}

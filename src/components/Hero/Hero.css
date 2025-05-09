@@ -1,0 +1,15 @@
+/* .bg-image{
+    background-image: url(../../Assets/background.avif);
+    
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+} */
+ .left-alignment{
+    text-align:left;
+    color:black;
+
+ }
+ .textcolor{
+    font-size:40px;
+ }

@@ -1,0 +1,39 @@
+
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Floral Embroidered Anarkali Dress",
+        "image": "/Assets/anarkali-dresses.avif",
+        "category": "women",
+        "new_price": 50.0,
+        "old_price": 80.7
+      },
+      {
+        "id": 2,
+        "name": "Pastel Green Churidar Suit",
+        "image": "/Assets/chudi1.avif",
+        "category": "women",
+        "new_price": 40.0,
+        "old_price": 90.7
+      },
+      {
+        "id": 3,
+        "name": "Silk Blend Straight Cut Kurta",
+        "image": "/Assets/chudi2.avif",
+        "category": "women",
+        "new_price": 70.0,
+        "old_price": 80.7
+      },
+      {
+        "id": 4,
+        "name": "Front Slit Georgette Gown",
+        "image": "/Assets/front-view.avif",
+        "category": "women",
+        "new_price": 80.0,
+        "old_price": 110.7
+      }
+    ]
+  }
+    
+    

@@ -1,0 +1,39 @@
+ body{
+    overflow-x: hidden;
+ }.Offer{
+    width:90%;
+    min-height:60vh;
+     margin: 0px 50px; 
+    display:flex;
+     background: linear-gradient(135deg, #fdfbfb, #ebedee); /* Elegant soft gradient */
+     padding: 60px 0;
+     border-radius: 30px;
+     
+     
+    
+    
+}
+.sideImage img {
+    width: 300px;
+    height: auto;
+    border-radius: 20px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+  }
+  .sideImage img:hover {
+    transform: scale(1.03);
+}
+.h6 {
+    color: #666;
+     font-weight: 500; 
+    letter-spacing: 1px;
+  }
+  /* @media (max-width: 768px) {
+    .sideImage img {
+      max-width: 200px;
+    }
+  } */
+  
+   
+   
+  
